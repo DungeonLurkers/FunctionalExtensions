@@ -8,6 +8,8 @@
         <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
         <Title>FunctionalExtensions</Title>
         <Authors>Avabin</Authors>
+        <Version>1.0.0.1</Version>
+        <RepositoryUrl>https://github.com/DungeonLurkers/FunctionalExtensions</RepositoryUrl>
     </PropertyGroup>
 
 </Project>
